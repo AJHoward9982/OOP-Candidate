@@ -12,4 +12,8 @@ IntelliJ
 # Author
 Andrew Howard
 
+# Class Diagram
+![Class Diagram](https://github.com/AJHoward9982/OOP-Candidate/blob/master/lib/diagram.PNG)
+
+
 ### Help so far has come from both Prof. Vanselow and various websites. (Stack overflow and Oracle's Java documentation mainly)
